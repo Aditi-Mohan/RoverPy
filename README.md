@@ -34,7 +34,6 @@ This project is primarily developed by a bunch of engineering students at NMIMS 
 - [Aditi Mohan](https://github.com/)
 - Miheer Thampi
 
-Take a look at the entire list of [contributors](https://github.com/aajinkya1203/RoverPy/graphs/contributors) to see who all have helped with the project.
 
 ## License
 
