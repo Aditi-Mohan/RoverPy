@@ -2,7 +2,7 @@
 
 Taking Agriculture to a whole new level!
 
-RoverPy is an advanced Rover built with Arduino Uno to controlling the Rover and Rasperry Pi for Object Detection to detect the leaves first and then analyse it to generate the health percentage!
+RoverPy is an advanced Rover built with Arduino Uno to control the Rover and Rasperry Pi for Object Detection inorder to detect the leaves and then analyse it to generate the health percentage!
 
 This project is developed by the students of NMIMS MPSTME.
 
